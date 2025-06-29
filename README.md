@@ -1,16 +1,32 @@
-# dart_dersleri
+# 🏆 Sports Analytics Pro
 
-First flutter project.
+A Flutter-based mobile application for manual match data entry, visual analysis, and basic AI-driven suggestions like "Player of the Match".
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📋 **Manual Match & Player Data Input**  
+  Easily input match scores and individual player statistics manually.
 
-A few resources to get you started if this is your first Flutter project:
+- 📊 **Real-time Visual Analytics**  
+  Displays entered data through clean tables and dynamic charts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🧠 **AI-Based Suggestions**  
+  A simple AI algorithm suggests the "Player of the Match" based on performance metrics.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 💡 **Clean & Intuitive UI**  
+  Designed with a modern and user-friendly interface for smooth interaction.
+
+## 🛠️ Tech Stack
+
+- Flutter & Dart  
+- Provider (State Management)  
+- Custom Widgets & Charts  
+- Basic AI Logic  
+- Git & GitHub for version control
+
+
+## 🔧 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AtaSakik/Sports-Analytics-Pro.git
